@@ -2,7 +2,7 @@
 // DirectNIOTest.java
 //
 
-package src.test;
+package test;
 
 import java.nio.*;
 

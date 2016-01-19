@@ -1,8 +1,8 @@
-package src.plugin;
+package plugin;
 
 import java.nio.FloatBuffer;
 
-import src.opencl.OpenCLManager;
+import opencl.OpenCLManager;
 
 import com.nativelibs4java.opencl.CLEvent;
 import com.nativelibs4java.opencl.CLFloatBuffer;

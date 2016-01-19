@@ -1,4 +1,4 @@
-package src.plugin;
+package plugin;
 
 import ij.IJ;
 
@@ -7,7 +7,7 @@ import java.nio.ByteBuffer;
 import java.nio.FloatBuffer;
 import java.util.ArrayList;
 
-import src.opencl.OpenCLManager;
+import opencl.OpenCLManager;
 
 
 import com.nativelibs4java.opencl.CLBuildException;

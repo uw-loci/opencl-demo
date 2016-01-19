@@ -1,4 +1,4 @@
-package src.plugin;
+package plugin;
 
 
 import ij.*;
