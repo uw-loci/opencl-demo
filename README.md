@@ -11,3 +11,8 @@ Profiling the 3D Iterative Deconvolution implementation revealed a dominant, com
 Successful acceleration was realized both for local and remote OpenCL execution using dominant compute delegation.  Examples and a [getting started tutorial](http://developer.imagej.net/opencl) are available.  The binary web service is available to demonstrate the approach for consumption as an ImageJ plugin. For more information, please see the getting started tutorial.
 
 For questions specific to the implementation, please [contact the ImageJ team](http://imagej.net/Mailing_Lists).
+
+## Compiling
+
+If you are compiling on the command line, run `sh build.sh`.
+
