@@ -1,4 +1,4 @@
-package src.opencl;
+package opencl;
 
 import java.util.ArrayList;
 
